@@ -2,9 +2,9 @@ id: P62EB5D10
 initial_creation_type: ocr
 source_metadata:
   volumes:
-    d5a5371e21bc4e27a52566dbfa7ffb2f:
-      base_file: v005.txt
-      image_group_id: I1PD95850
+    d05e6220d61f4b91b2b65b3ba15cc18c:
+      base_file: v042.txt
+      image_group_id: I1PD95887
       title: བདག་མེད་མ་ལྷ་མོ་བཅོ་ལྔ་ལ་བསྟོད་པ།
-      total_pages: 2069
-      volume_number: 5
+      total_pages: 1712
+      volume_number: 42
